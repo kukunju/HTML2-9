@@ -1,0 +1,16 @@
+.box1{
+  width: 600px;
+  height: 300px;
+  background-color: red;
+  margin: 10px 30px 20px 40px;
+  padding: 30px 20px 50px 20px;
+}
+
+.box2{
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  border: 5px solid yellow;
+  margin-left: auto;
+  margin-right: auto;
+}
